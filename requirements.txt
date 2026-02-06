@@ -1,0 +1,2 @@
+# Requires: infinite-unlikelihood
+# (Not available on PyPI)
